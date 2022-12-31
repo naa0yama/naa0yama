@@ -26,6 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naa0yama&" alt="naa0yama" /></p>
 
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  - [MikroTik upgrade 7.4.0 to 7.5.0](https://blog.aoya6i.com/mikrotik-upgrade-740-to-750)<br>2022-09-13
@@ -33,3 +34,48 @@
  - [MikroTik upgrade 7.3.1 to 7.4.0](https://blog.aoya6i.com/mikrotik-upgrade-731-to-740)<br>2022-07-23
  - [MikroTik upgrade 7.2.3 to 7.3.1](https://blog.aoya6i.com/mikrotik-crs310-1g-5s-4sin-upgrade-723-to-731)<br>2022-07-17
  - [Vultr で Disk image をアップロードする場合](https://blog.aoya6i.com/vultr-disk-image-to-qcow2-convert-and-upload)<br>2022-07-16<!-- BLOG-POST-LIST:END -->
+
+
+## Education
+
+* AWS 認定ソリューションアーキテクト – プロフェッショナル<br>AWS Certified Solutions Architect - Professional (SAP)
+* AWS 認定ソリューションアーキテクト – アソシエイト<br>AWS Certified Solutions Architect - Associate (SAA)
+* AWS 認定クラウドプラクティショナー<br>AWS Certified Cloud Practitioner (CLF)
+* 情報セキュリティーマネジメン試験<br>Information Security Management Examination, Japan
+* ITパスポート試験<br>Information Technology Passport Examination, Japan
+* 情報科学専門課程 ITスペシャリスト科<br>日本工学院八王子専門学校（Nippon Engineering College of Hachioji）
+
+## Experience
+
+| Date                    |         Role         | Title                                                               |
+| :---------------------- | :------------------: | ------------------------------------------------------------------- |
+| **2022**                |
+| 2022-11-21 – 2022-11-30 | live streaming staff | [Internet Week 2022](https://www.nic.ad.jp/iw2022/)                 |
+|                         |
+| **2021**                |
+| 2021-11-16 – 2021-11-26 | live streaming staff | [Internet Week 2021](https://www.nic.ad.jp/iw2021/)                 |
+|                         |
+| **2020**                |
+| 2020-12-11 – 2020-12-12 |        Staff         | [PHP Conference Japan 2020 Re:born](https://phpcon.php.gr.jp/2020/) |
+| 2020-11-17 – 2020-11-27 | live streaming staff | [Internet Week 2020](https://www.nic.ad.jp/iw2020/)                 |
+|                         |
+| **2019**                 |
+| 2019-11-26 – 2019-11-29 |   NOC Staff Leader   | [Internet Week 2019](https://www.nic.ad.jp/iw2019/)                 |
+| 2019-09-14 – 2019-09-17 |    Network Staff     | [PyCon JP 2019](https://pycon.jp/2019/)                             |
+| 2019-06-01 – 2019-06-01 |    Network Staff     | [Erlang & Elixir Fest 2019](https://elixir-fest.jp/)                |
+|                         |
+| **2018**                 |
+| 2018-12-15 – 2018-12-15 |    Network Staff     | [PHP Conference 2018](http://phpcon.php.gr.jp/2018/)                |
+| 2018-12-03 – 2018-12-03 |  Operating Members   | [JapanContainerDays v18.12 Meetup](https://containerdays.jp/)       |
+| 2018-06-16 – 2017-06-16 |    Network Staff     | [Erlang & Elixir Fest 2018](https://elixir-fest.jp/)                |
+| 2018-02-08 – 2017-02-09 |    Network Staff     | [DroidKaigi 2018](https://droidkaigi.jp/2018/)                      |
+|                         |
+| **2017**                 |
+| 2017-11-28 – 2017-12-01 |    Network Staff     | [Internet Week 2017](https://www.nic.ad.jp/iw2017/)                 |
+|                         |
+| **2016**                 |
+| 2016-11-29 – 2016-12-02 |    Network Staff     | [Internet Week 2016](https://www.nic.ad.jp/iw2016/)                 |
+|                         |
+| **2015**                 |
+| 2015-11-17 – 2016-11-20 |    Network Staff     | [Internet Week 2015](https://www.nic.ad.jp/iw2015/)                 |
+
