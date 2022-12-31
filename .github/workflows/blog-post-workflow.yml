@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.aoya6i.com/rss.xml"
-          template: "$newline[$title]($url): $date $description $newline"
+          template: "$newline[$title]($url)$newline$date$newline"
           date_format: "yyyy-mm-dd"
