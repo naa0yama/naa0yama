@@ -1,7 +1,8 @@
 # Hi there 👋
 
-小学校時代に、授業で Intel Core 2 Duo, Memory 512MB, Windows XP を初めて触りその無限大の草原に飲まれ熱中した。
-2018年04月より某データーセンター事業者で働き始める。 現在は、オープンソースソフトウェアと触れログ解析や監視構築などに従事している。
+小学校時代に、授業で Intel Core 2 Duo, Memory 512MB, Windows XP を初めて触りその無限大の草原に飲まれ熱中した。  
+2018年04月より某データーセンター事業者で働き始める。  
+現在は、オープンソースソフトウェアと触れログ解析や監視構築などに従事している。  
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
