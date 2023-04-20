@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Proxmox の Ceph の GP修復](https://blog.aoya6i.com/proxmox-ceph-gp)<br>2023-04-20
  - [Zabbix 6.0.15 で 1秒間あたりを計算しているアイテムの収集が止まった](https://blog.aoya6i.com/unable-to-get-values-after-upgrading-to-zabbix-6015)<br>2023-04-05
  - [MikroTik upgrade 7.6.0 to 7.8.0](https://blog.aoya6i.com/mikrotik-upgrade-760-to-780)<br>2023-03-11
  - [MikroTik upgrade 7.6.0 to 7.7.0](https://blog.aoya6i.com/mikrotik-upgrade-760-to-770)<br>2023-01-21
- - [MikroTik upgrade 7.4.0 to 7.5.0](https://blog.aoya6i.com/mikrotik-upgrade-740-to-750)<br>2022-09-13
- - [FS.com s3910-24tf, s3410-10tf-p-01 証明書更新](https://blog.aoya6i.com/fscom-s3910-24tf-s3410-10tf-p-01-certificate-update-from-2022)<br>2022-07-23<!-- BLOG-POST-LIST:END -->
+ - [MikroTik upgrade 7.4.0 to 7.5.0](https://blog.aoya6i.com/mikrotik-upgrade-740-to-750)<br>2022-09-13<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
