@@ -50,7 +50,7 @@
 | Date                    |         Role         | Title                                                               |
 | :---------------------- | :------------------: | ------------------------------------------------------------------- |
 | **2023**                |
-| 2022-10-00 – 2023-09-30 | ShowNet NOC Team     | [NOC/STM紹介 | Interop Tokyo 2023](https://www.interop.jp/2023/shownet/noc/)  |
+| 2022-10-00 – 2023-09-30 | ShowNet NOC Team     | [NOC\/STM紹介 \| Interop Tokyo 2023](https://www.interop.jp/2023/shownet/noc/)  |
 | **2022**                |
 | 2022-11-21 – 2022-11-30 | live streaming staff | [Internet Week 2022](https://www.nic.ad.jp/iw2022/)                 |
 |                         |
