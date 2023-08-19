@@ -14,6 +14,6 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.aoya6i.com/rss.xml"
+          feed_list: "https://blog.naa0yama.com/index.xml"
           template: "$newline - [$title]($url)<br>$date"
           date_format: "yyyy-mm-dd"
