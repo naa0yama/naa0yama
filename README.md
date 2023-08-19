@@ -30,10 +30,10 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  - [About](https://blog.naa0yama.com/about/)<br>2023-08-12
+ - [PiKVM の導入](https://blog.naa0yama.com/p/33w15-6wk16qmk/)<br>2023-05-10
  - [Proxmox VE の Ceph の GP修復](https://blog.naa0yama.com/p/33w15-1hve73fs/)<br>2023-04-20
  - [Zabbix 6.0.15 で1秒間あたり を計算しているアイテムの収集が 止まった](https://blog.naa0yama.com/p/33w15-sexkmi6j/)<br>2023-04-05
- - [MikroTik upgrade 7.6.0 to 7.8.0](https://blog.naa0yama.com/p/33w15-i9swbu4d/)<br>2023-03-11
- - [MikroTik upgrade 7.6.0 to 7.7.0](https://blog.naa0yama.com/p/33w15-dtocfz4a/)<br>2023-01-23<!-- BLOG-POST-LIST:END -->
+ - [MikroTik upgrade 7.6.0 to 7.8.0](https://blog.naa0yama.com/p/33w15-i9swbu4d/)<br>2023-03-11<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
