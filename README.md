@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [Proxmox の Ceph の GP修復](https://blog.aoya6i.com/proxmox-ceph-gp)<br>2023-04-20
- - [Zabbix 6.0.15 で 1秒間あたりを計算しているアイテムの収集が止まった](https://blog.aoya6i.com/unable-to-get-values-after-upgrading-to-zabbix-6015)<br>2023-04-05
- - [MikroTik upgrade 7.6.0 to 7.8.0](https://blog.aoya6i.com/mikrotik-upgrade-760-to-780)<br>2023-03-11
- - [MikroTik upgrade 7.6.0 to 7.7.0](https://blog.aoya6i.com/mikrotik-upgrade-760-to-770)<br>2023-01-21
- - [MikroTik upgrade 7.4.0 to 7.5.0](https://blog.aoya6i.com/mikrotik-upgrade-740-to-750)<br>2022-09-13<!-- BLOG-POST-LIST:END -->
+ - [About](https://blog.naa0yama.com/about/)<br>2023-08-12
+ - [Proxmox VE の Ceph の GP修復](https://blog.naa0yama.com/p/33w15-1hve73fs/)<br>2023-04-20
+ - [Zabbix 6.0.15 で1秒間あたり を計算しているアイテムの収集が 止まった](https://blog.naa0yama.com/p/33w15-sexkmi6j/)<br>2023-04-05
+ - [MikroTik upgrade 7.6.0 to 7.8.0](https://blog.naa0yama.com/p/33w15-i9swbu4d/)<br>2023-03-11
+ - [MikroTik upgrade 7.6.0 to 7.7.0](https://blog.naa0yama.com/p/33w15-dtocfz4a/)<br>2023-01-23<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
