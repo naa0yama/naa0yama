@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [逸般の誤家庭ネットワーク事情](https://blog.naa0yama.com/p/35w29-9ozq8qbv/)<br>2023-08-29
  - [Rakuten Mobile の MTU を調べる](https://blog.naa0yama.com/p/34w22-w5fpj9np/)<br>2023-08-22
  - [About](https://blog.naa0yama.com/about/)<br>2023-08-12
  - [PiKVM の導入](https://blog.naa0yama.com/p/33w15-6wk16qmk/)<br>2023-05-10
- - [Proxmox VE の Ceph の GP修復](https://blog.naa0yama.com/p/33w15-1hve73fs/)<br>2023-04-20
- - [Zabbix 6.0.15 で1秒間あたり を計算しているアイテムの収集が 止まった](https://blog.naa0yama.com/p/33w15-sexkmi6j/)<br>2023-04-05<!-- BLOG-POST-LIST:END -->
+ - [Proxmox VE の Ceph の GP修復](https://blog.naa0yama.com/p/33w15-1hve73fs/)<br>2023-04-20<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
