@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [PiKVM update で壊れた](https://blog.naa0yama.com/p/36w10-wasqrgzo/)<br>2023-09-10
  - [Ubuntu netplan で VLAN ソースルーティングを設定する](https://blog.naa0yama.com/p/35w03-fn2swu9e/)<br>2023-09-03
  - [Cisco 2960L-48TS-LL を購入したので設定する](https://blog.naa0yama.com/p/35w31-cv9xx0h4/)<br>2023-08-31
  - [逸般の誤家庭ネットワーク事情](https://blog.naa0yama.com/p/35w29-9ozq8qbv/)<br>2023-08-29
- - [Rakuten Mobile の MTU を調べる](https://blog.naa0yama.com/p/34w22-w5fpj9np/)<br>2023-08-22
- - [About](https://blog.naa0yama.com/about/)<br>2023-08-12<!-- BLOG-POST-LIST:END -->
+ - [Rakuten Mobile の MTU を調べる](https://blog.naa0yama.com/p/34w22-w5fpj9np/)<br>2023-08-22<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
