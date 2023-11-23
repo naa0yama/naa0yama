@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [QNAP TS-664 初期化試験](https://blog.naa0yama.com/p/47w22-c9h0whkn/)<br>2023-11-22
+ - [QNAP TS-664 セットアップ 設定&amp;AppCenter 編](https://blog.naa0yama.com/p/46w18-72rrd4p1/)<br>2023-11-18
  - [QNAP TS-664 セットアップ ストレージ編](https://blog.naa0yama.com/p/45w11-ils6fwp5/)<br>2023-11-11
  - [TrueNAS Scale Storage めも](https://blog.naa0yama.com/p/43w23-xxjcyyhy/)<br>2023-10-23
- - [Proxmox VE で PCI Passthrough する](https://blog.naa0yama.com/p/38w23-75e4w90p/)<br>2023-09-23
- - [録画鯖のメンテナンス](https://blog.naa0yama.com/p/37w16-yfgudeug/)<br>2023-09-16
- - [PiKVM update で壊れた](https://blog.naa0yama.com/p/36w10-wasqrgzo/)<br>2023-09-10<!-- BLOG-POST-LIST:END -->
+ - [Proxmox VE で PCI Passthrough する](https://blog.naa0yama.com/p/38w23-75e4w90p/)<br>2023-09-23<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
