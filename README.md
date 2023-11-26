@@ -30,7 +30,7 @@
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  - [Linux で CrystalDiskMark 8 ぽい計測をする](https://blog.naa0yama.com/p/47w26-001b9yir/)<br>2023-11-26
- - [QNAP QTS 改め TrueNAS Scale の物理構成](https://blog.naa0yama.com/p/47w25-mrjr7d07/)<br>2023-11-25
+ - [QTS 改め TrueNAS Scale の物理構成](https://blog.naa0yama.com/p/47w25-mrjr7d07/)<br>2023-11-25
  - [QNAP TS-664 初期化試験](https://blog.naa0yama.com/p/47w22-c9h0whkn/)<br>2023-11-22
  - [QNAP TS-664 セットアップ 設定&amp;AppCenter 編](https://blog.naa0yama.com/p/46w18-72rrd4p1/)<br>2023-11-18
  - [QNAP TS-664 セットアップ ストレージ編](https://blog.naa0yama.com/p/45w11-ils6fwp5/)<br>2023-11-11<!-- BLOG-POST-LIST:END -->
