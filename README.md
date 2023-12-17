@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [APC Smart-UPS SMT1500J を購入](https://blog.naa0yama.com/p/48w01-2ye1v0n5/)<br>2023-12-01
- - [Linux で CrystalDiskMark 8 ぽい計測をする](https://blog.naa0yama.com/p/47w26-001b9yir/)<br>2023-11-26
- - [QTS 改め TrueNAS Scale の物理構成](https://blog.naa0yama.com/p/47w25-mrjr7d07/)<br>2023-11-25
- - [QNAP TS-664 初期化試験](https://blog.naa0yama.com/p/47w22-c9h0whkn/)<br>2023-11-22
- - [QNAP TS-664 セットアップ 設定&amp;AppCenter 編](https://blog.naa0yama.com/p/46w18-72rrd4p1/)<br>2023-11-18<!-- BLOG-POST-LIST:END -->
+ - [TrueNAS Scale の Cloud Sync を IDrive e2 で利用する](https://blog.naa0yama.com/p/50w16-94zf5dow/)<br>2023-12-16
+ - [S3 互換ストレージの料金 を比較してみた](https://blog.naa0yama.com/p/50w15-8gbsss53/)<br>2023-12-15
+ - [バックアップちゃんとできていますか?](https://blog.naa0yama.com/p/49w10-7ujxz2z4/)<br>2023-12-10
+ - [HDD/SSD の検品](https://blog.naa0yama.com/p/49w09-dyeb9pre/)<br>2023-12-09
+ - [TrueNAS Scale SMB 「Purpose」の挙動](https://blog.naa0yama.com/p/49w08-nq1esr0q/)<br>2023-12-08<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
