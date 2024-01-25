@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Proxmox VE / Proxmox Backup Server のアレを非表示にする](https://blog.naa0yama.com/p/04w25-4u1nklm8/)<br>2024-01-25
  - [TrueNAS Scale Configuration を自動バックアップする](https://blog.naa0yama.com/p/50w17-jdzb4ymh/)<br>2023-12-17
  - [TrueNAS Scale 障害試験](https://blog.naa0yama.com/p/50w17-n7f4u2xk/)<br>2023-12-17
  - [TrueNAS Scale の Cloud Sync を IDrive e2 で利用する](https://blog.naa0yama.com/p/50w16-94zf5dow/)<br>2023-12-16
- - [S3 互換ストレージの料金 を比較してみた](https://blog.naa0yama.com/p/50w15-8gbsss53/)<br>2023-12-15
- - [バックアップちゃんとできていますか?](https://blog.naa0yama.com/p/49w10-7ujxz2z4/)<br>2023-12-10<!-- BLOG-POST-LIST:END -->
+ - [S3 互換ストレージの料金 を比較してみた](https://blog.naa0yama.com/p/50w15-8gbsss53/)<br>2023-12-15<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
