@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [CloudFlare ZTNA を設定して安全に宅内にアクセスする](https://blog.naa0yama.com/p/06w09-x70b1ywc/)<br>2024-02-09
  - [Proxmox VE / Proxmox Backup Server のアレを非表示にする](https://blog.naa0yama.com/p/04w25-4u1nklm8/)<br>2024-01-25
  - [FortiGate 50E をつよつよルーターにする](https://blog.naa0yama.com/p/02w13-wq4j2g3d/)<br>2024-01-13
  - [TrueNAS Scale Configuration を自動バックアップする](https://blog.naa0yama.com/p/50w17-jdzb4ymh/)<br>2023-12-17
- - [TrueNAS Scale 障害試験](https://blog.naa0yama.com/p/50w17-n7f4u2xk/)<br>2023-12-17
- - [TrueNAS Scale の Cloud Sync を IDrive e2 で利用する](https://blog.naa0yama.com/p/50w16-94zf5dow/)<br>2023-12-16<!-- BLOG-POST-LIST:END -->
+ - [TrueNAS Scale 障害試験](https://blog.naa0yama.com/p/50w17-n7f4u2xk/)<br>2023-12-17<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
