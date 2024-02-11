@@ -4,7 +4,7 @@
 2018年04月より某データーセンター事業者で働き始める。  
 現在は、オープンソースソフトウェアと触れログ解析や監視構築などに従事している。  
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naa0yama&label=Profile%20views&color=0e75b6&style=flat" alt="naa0yama" /> </p>
 
