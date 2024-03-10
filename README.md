@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [OpenWrt 23.05.2 を移植した Fortigate 50E の NAT 性能](https://blog.naa0yama.com/p/10w06-pfjd0op7/)<br>2024-03-06
+ - [ipgen を試す](https://blog.naa0yama.com/p/09w28-s2p3hqg5/)<br>2024-02-28
+ - [OPNsense or pfSense に cloudflared をインストールする](https://blog.naa0yama.com/p/08w22-n6e9ahsg/)<br>2024-02-22
  - [CloudFlare ZTNA を設定して安全に宅内にアクセスする](https://blog.naa0yama.com/p/06w09-x70b1ywc/)<br>2024-02-09
- - [Proxmox VE / Proxmox Backup Server のアレを非表示にする](https://blog.naa0yama.com/p/04w25-4u1nklm8/)<br>2024-01-25
- - [FortiGate 50E をつよつよルーターにする](https://blog.naa0yama.com/p/02w13-wq4j2g3d/)<br>2024-01-13
- - [TrueNAS Scale Configuration を自動バックアップする](https://blog.naa0yama.com/p/50w17-jdzb4ymh/)<br>2023-12-17
- - [TrueNAS Scale 障害試験](https://blog.naa0yama.com/p/50w17-n7f4u2xk/)<br>2023-12-17<!-- BLOG-POST-LIST:END -->
+ - [Proxmox VE / Proxmox Backup Server のアレを非表示にする](https://blog.naa0yama.com/p/04w25-4u1nklm8/)<br>2024-01-25<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
