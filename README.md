@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- - [JPmoxs勉強会#1 に参加しました](https://blog.naa0yama.com/p/12w22-6wvghvof/)<br>2024-03-22
- - [TrueNAS Scale 23.10.2 に Upgrade](https://blog.naa0yama.com/p/12w21-jg7pulky/)<br>2024-03-21
- - [TrueNAS Scale に APC UPS を設定する](https://blog.naa0yama.com/p/12w21-2wk4t5d6/)<br>2024-03-21
- - [Google Cloud の Cloud Identity をセットアップする](https://blog.naa0yama.com/p/11w16-mk9zmoyd/)<br>2024-03-16
- - [Zabbix 6.0 でデータベース肥大化が原因で Disk Full したので対処した](https://blog.naa0yama.com/p/11w12-pbkiv0eu/)<br>2024-03-12<!-- BLOG-POST-LIST:END -->
+ - [Proxmox VE 8.1 Install Battle - Cluster&amp;Ceph作成編&lpar;4/N&rpar;](https://blog.naa0yama.com/p/16w20-xv7bu0zl/)<br>2024-04-18
+ - [Proxmox VE 8.1 Install Battle - PVE構築編&lpar;3/N&rpar;](https://blog.naa0yama.com/p/16w20-98ccqegh/)<br>2024-04-18
+ - [Proxmox VE 8.1 Install Battle - 検証環境構築準備編&lpar;2/N&rpar;](https://blog.naa0yama.com/p/16w20-tzposg14/)<br>2024-04-18
+ - [Proxmox VE 8.1 Install Battle - 前提知識編&lpar;1/N&rpar;](https://blog.naa0yama.com/p/16w18-aecx4ao7/)<br>2024-04-18
+ - [JPmoxs勉強会#1 に参加しました](https://blog.naa0yama.com/p/12w22-6wvghvof/)<br>2024-03-22<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
