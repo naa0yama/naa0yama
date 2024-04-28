@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [Proxmox VE 8.1 Install Battle - VMテンプレート作成編&lpar;5/N&rpar;](https://blog.naa0yama.com/p/17w28-5fe7ysj2/)<br>2024-04-28
  - [Proxmox VE 8.1 Install Battle - Cluster&amp;Ceph作成編&lpar;4/N&rpar;](https://blog.naa0yama.com/p/16w20-xv7bu0zl/)<br>2024-04-18
  - [Proxmox VE 8.1 Install Battle - PVE構築編&lpar;3/N&rpar;](https://blog.naa0yama.com/p/16w20-98ccqegh/)<br>2024-04-18
  - [Proxmox VE 8.1 Install Battle - 検証環境構築準備編&lpar;2/N&rpar;](https://blog.naa0yama.com/p/16w20-tzposg14/)<br>2024-04-18
- - [Proxmox VE 8.1 Install Battle - 前提知識編&lpar;1/N&rpar;](https://blog.naa0yama.com/p/16w18-aecx4ao7/)<br>2024-04-18
- - [JPmoxs勉強会#1 に参加しました](https://blog.naa0yama.com/p/12w22-6wvghvof/)<br>2024-03-22<!-- BLOG-POST-LIST:END -->
+ - [Proxmox VE 8.1 Install Battle - 前提知識編&lpar;1/N&rpar;](https://blog.naa0yama.com/p/16w18-aecx4ao7/)<br>2024-04-18<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
