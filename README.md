@@ -29,11 +29,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - [IDrive e2 速度比較](https://blog.naa0yama.com/p/18w01-9w21pqfi/)<br>2024-05-01
+ - [Proxmox VE 8.1 Install Battle - Proxmox Backup Server 編&lpar;6/N&rpar;](https://blog.naa0yama.com/p/18w29-7q3p14ju/)<br>2024-04-29
  - [Proxmox VE 8.1 Install Battle - VMテンプレート作成編&lpar;5/N&rpar;](https://blog.naa0yama.com/p/17w28-5fe7ysj2/)<br>2024-04-28
  - [Proxmox VE 8.1 Install Battle - Cluster&amp;Ceph作成編&lpar;4/N&rpar;](https://blog.naa0yama.com/p/16w20-xv7bu0zl/)<br>2024-04-18
- - [Proxmox VE 8.1 Install Battle - PVE構築編&lpar;3/N&rpar;](https://blog.naa0yama.com/p/16w20-98ccqegh/)<br>2024-04-18
- - [Proxmox VE 8.1 Install Battle - 検証環境構築準備編&lpar;2/N&rpar;](https://blog.naa0yama.com/p/16w20-tzposg14/)<br>2024-04-18
- - [Proxmox VE 8.1 Install Battle - 前提知識編&lpar;1/N&rpar;](https://blog.naa0yama.com/p/16w18-aecx4ao7/)<br>2024-04-18<!-- BLOG-POST-LIST:END -->
+ - [Proxmox VE 8.1 Install Battle - PVE構築編&lpar;3/N&rpar;](https://blog.naa0yama.com/p/16w20-98ccqegh/)<br>2024-04-18<!-- BLOG-POST-LIST:END -->
 
 
 ## Education
