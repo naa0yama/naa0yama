@@ -17,3 +17,4 @@ jobs:
           feed_list: "https://blog.naa0yama.com/index.xml"
           template: "$newline - [$title]($url)<br>$date"
           date_format: "yyyy-mm-dd"
+          user_agent: ${{ env.USER_AGENT }}
