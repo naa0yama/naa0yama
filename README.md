@@ -21,6 +21,10 @@
 
 ## Experience
 
+<details>
+  <summary>Show all experience</summary>
+  <div>
+
 | Date                    |         Role         | Title                                                               |
 | :---------------------- | :------------------: | ------------------------------------------------------------------- |
 | **2023**                |
@@ -54,4 +58,6 @@
 |                         |
 | **2015**                 |
 | 2015-11-17 – 2016-11-20 |    Network Staff     | [Internet Week 2015](https://www.nic.ad.jp/iw2015/)                 |
-
+    
+  </div>
+</details>
